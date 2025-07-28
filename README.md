@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan Kagzi</h1>
-### 📫 How to reach me:
+📫 How to reach me:
 
 - 📧 Email: [muskankagzi65@gmail.com](mailto:muskankagzi65@gmail.com)
 
