@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muskan Kagzi</h1>
-<h1 align="center">Hi 👋, I'm Muskan Kagzi</h1>
 
 <h3 align="center">B.Tech AI & Data Science Student at NIT Kurukshetra | Full Stack Developer | AI/ML Enthusiast</h3>
 
